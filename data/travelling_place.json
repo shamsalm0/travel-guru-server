@@ -1,0 +1,24 @@
+  [
+      {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1"
+      },
+      {
+        "id": 2,
+        "name": "Sajek Vally",
+        "image_url": "https://www.thesatourism.com/wp-content/uploads/2017/01/Sajek-valley-1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sreemangal",
+        "image_url": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sundarban",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/65/03/8c/sundarban.jpg?w=1200&h=-1&s=1"
+      }
+    ]
+
+  
