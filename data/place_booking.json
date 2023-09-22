@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "picture":{"picId":101,
+        "name": "Sea Crown",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/120397144.jpg?k=ca74ce65d75e5c0abe4a14b79923353a5920164cefb9160580b06868c236c4cc&o=&hp=1"}
+      
+    },
+    {
+        "id": 2,
+        "picture":{"picId":201,
+          "name": "D'More",
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424000633.jpg?k=077a4f8ba105745d7af98053ded923be5e7a89098a0b5d5636c10b387f896da7&o=&hp=1"}
+    },
+    {
+        "id": 3,
+        "picture":{"picId":301,
+          "name": "Merina",
+        "image_url": "https://www.bdbooking.com/upload/property/hotel/012020201026313795e258057ac887.jpg"}
+    },
+    {
+        "id": 4,
+        "picture":{"picId":401,
+          "name": "SonarBangla",
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280188723.jpg?k=2c21ec7bac600b72e2cb4ca2712cf8f97dea64befeea1a6d587f979e6c1a209d&o=&hp=1"}
+    }
+  ]
+
